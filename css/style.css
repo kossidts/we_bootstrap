@@ -1,0 +1,38 @@
+body
+{
+	background-color: #06266f;
+}
+
+content
+{
+	padding: 5px;
+}
+
+footer
+{
+	margin-top: 10px;
+	text-align: right;
+	background-color: #ff7400;
+	padding: 2px 10px;
+}
+
+h1
+{ 
+	color: #ff7400;
+}
+
+.main
+{ 
+	width: 800px; 
+	margin: 5px auto;
+	border: 1px solid #eee;
+	background-color: #fff;
+}
+
+p
+{
+	margin-bottom: 10px;
+	text-align: justify;
+	padding: 5px;
+}
+
