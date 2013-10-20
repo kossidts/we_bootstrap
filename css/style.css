@@ -1,3 +1,15 @@
+a
+{
+	text-decoration: none;
+	color: #1240ab;
+}
+
+a:hover
+{
+	text-decoration: underline;
+	color: #1240ab;
+}
+
 body
 {
 	background-color: #06266f;
