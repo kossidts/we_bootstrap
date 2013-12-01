@@ -48,3 +48,21 @@ p
 	padding: 5px;
 }
 
+#table
+{
+    
+}
+
+#table span
+{
+    display: inline-block;
+}
+
+.counter
+{
+    width: 35px;
+}
+
+span:nth-child(odd) {background-color: #ccc}
+span:nth-child(even) {background-color: #ddd}
+
