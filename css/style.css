@@ -61,7 +61,11 @@ p
 
 .counter
 {
-    width: 35px;
+    width: 30px;
 }
 
+.tag
+{
+    width: 60px;
+}
 
