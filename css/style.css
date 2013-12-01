@@ -50,7 +50,8 @@ p
 
 #table
 {
-    
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
 }
 
 #table span
@@ -63,6 +64,4 @@ p
     width: 35px;
 }
 
-span:nth-child(odd) {background-color: #ccc}
-span:nth-child(even) {background-color: #ddd}
 
