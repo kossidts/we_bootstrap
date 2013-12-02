@@ -35,7 +35,7 @@ h1
 
 .main
 { 
-	width: 1024px;
+	width: 1054px;
 	margin: 5px auto;
 	border: 1px solid #eee;
 	background-color: #fff;
@@ -74,12 +74,12 @@ p
 
 .type
 {
-    width: 190px;
+    width: 100px;
 }
 
 .semantic
 {
-    width: 200px;
+    width: 150px;
 }
 
 .nl
@@ -97,7 +97,7 @@ p
 
 .bg
 {
-    background-color: #dfdfdf;
+    background-color: #fefefe;
 }
 
 .head
