@@ -35,7 +35,7 @@ h1
 
 .main
 { 
-	width: 1054px;
+	width: 985px;
 	margin: 5px auto;
 	border: 1px solid #eee;
 	background-color: #fff;
@@ -64,12 +64,12 @@ p
 
 .tag
 {
-    width: 150px;
+    width: 155px;
 }
 
 .description
 {
-    width: 450px;
+    width: 500px;
 }
 
 .type
