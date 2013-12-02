@@ -16,7 +16,7 @@ body
     color: #666;
 }
 
-content
+.content
 {
 	padding: 5px;
 }
@@ -66,7 +66,7 @@ p
 
 .tag
 {
-    width: 155px;
+    width: 160px;
 }
 
 .description
