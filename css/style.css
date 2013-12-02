@@ -35,7 +35,7 @@ h1
 
 .main
 { 
-	width: 985px;
+	width: 1024px;
 	margin: 5px auto;
 	border: 1px solid #eee;
 	background-color: #fff;
@@ -69,12 +69,12 @@ p
 
 .description
 {
-    width: 400px;
+    width: 450px;
 }
 
 .type
 {
-    width: 280px;
+    width: 190px;
 }
 
 .semantic
