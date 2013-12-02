@@ -61,22 +61,22 @@ p
 
 .counter
 {
-    width: 25px;
+    width: 23px;
 }
 
 .tag
 {
-    width: 175px;
+    width: 187px;
 }
 
 .description
 {
-    width: 500px;
+    width: 495px;
 }
 
 .type
 {
-    width: 100px;
+    width: 95px;
 }
 
 .semantic
@@ -87,7 +87,7 @@ p
 .nl
 {
     display: block;
-    height 8px;
+    height: 8px;
 }
 
 .style
