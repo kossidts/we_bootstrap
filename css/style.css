@@ -50,6 +50,7 @@ p
 
 #table
 {
+    margin: 2px auto 5px 5px;
 }
 
 #table span
@@ -69,7 +70,7 @@ p
 
 .description
 {
-    width: 500px;
+    width: 505px;
 }
 
 .type
@@ -97,7 +98,7 @@ p
 
 .bg
 {
-    background-color: #fefefe;
+    background-color: #ededed;
 }
 
 .head
